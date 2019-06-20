@@ -1,0 +1,31 @@
+.button1{
+  height:100rpx;
+  position : absolute;
+  left:100px;
+  top:100px
+}
+.button2{
+  position : absolute;
+  left:100px;
+  top:200px
+}
+.button3{
+  position : absolute;
+  left:100px;
+  top:300px
+}
+.image1{
+  position:absolute;
+  left:100rpx;
+  top:100rpx;
+  width: rpx;
+  height: 100rpx
+}
+.image2{
+  
+  position:absolute;
+  left:100rpx;
+  top:300rpx;
+  width: 100rpx;
+  height: 100rpx
+}

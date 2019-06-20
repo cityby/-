@@ -1,0 +1,7 @@
+<view>entrance</view>
+<view bindinput="nickname"></view>
+
+<button bindtap='create'>create a room</button>
+<input placeholder='please enter player number(2-6)' type="number" bindinput="playernumber"></input>
+<input placeholder="please enter your nickname" type="text" confirm-type='done' bindinput='nickname'>
+</input>

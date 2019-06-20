@@ -1,0 +1,3 @@
+<input type="number" placeholder = "room number"></input>
+<input type="text" placeholder = "nickname"></input>
+<button bindtap='join'>join</button>

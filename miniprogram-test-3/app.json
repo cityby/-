@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/play"
+  ],
+  "sitemapLocation": "sitemap.json",
+
+  "window": {
+    "navigationBarBackgroundColor": "#eeeeee",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小程序",
+    "backgroundColor": "#889287",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  }
+}
